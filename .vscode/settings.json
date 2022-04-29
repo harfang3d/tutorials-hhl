@@ -1,0 +1,10 @@
+{
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "restructuredtext.confPath": "",
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "200"
+    ]
+}
